@@ -1,0 +1,5 @@
+IP: 84.252.139.22;
+name_taski: https://koproject.hopto.org/;
+name_kittygram: https://kokittygram.hopto.org/;
+login: admin;
+password: 6tY87er2;
