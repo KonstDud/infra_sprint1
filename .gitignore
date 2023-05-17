@@ -137,6 +137,7 @@ media/
 # FRONTEND
 
 # dependencies
+node_modules
 /.pnp
 .pnp.js
 
@@ -144,7 +145,7 @@ media/
 
 
 # production
-
+build
 
 # misc
 .DS_Store
